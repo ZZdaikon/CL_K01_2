@@ -4,6 +4,7 @@
 /*課題名 CL_K01_2*/
 
 /*修正１*/
+/*修正２*/
 
 void main (void){
 	int width;
