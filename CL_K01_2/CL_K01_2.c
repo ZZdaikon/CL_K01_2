@@ -5,6 +5,7 @@
 
 /*修正１*/
 /*修正２*/
+/*修正３*/
 
 void main (void){
 	int width;
